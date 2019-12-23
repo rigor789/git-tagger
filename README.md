@@ -1,7 +1,7 @@
 git-tagger
 ==========
 
-
+Tag folders based on their git-status. (OSX only)
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/git-tagger.svg)](https://npmjs.org/package/git-tagger)
