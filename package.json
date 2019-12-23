@@ -1,6 +1,6 @@
 {
   "name": "git-tagger",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Igor Randjelovic",
   "bin": {
     "git-tagger": "./bin/run"

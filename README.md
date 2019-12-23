@@ -19,7 +19,7 @@ $ npm install -g git-tagger
 $ git-tagger COMMAND
 running command...
 $ git-tagger (-v|--version|version)
-git-tagger/0.0.0 darwin-x64 node-v13.5.0
+git-tagger/0.1.0 darwin-x64 node-v13.5.0
 $ git-tagger --help [COMMAND]
 USAGE
   $ git-tagger COMMAND
